@@ -1,0 +1,159 @@
+{
+  "name": "联机",
+  "author": "ankang",
+  "version": "1.1",
+  "description": "",
+  "fileApi": "https://ankangpig.github.io/mchehe/modpack",
+  "files": [
+    {
+      "path": "mods/appliedenergistics2-rv6-stable-7.jar",
+      "hash": "e5c3c11eafc5daf73652a2dabe855e3759caa8b5"
+    },
+    {
+      "path": "mods/backpack-3.0.2-1.12.2.jar",
+      "hash": "081807b00c859d209aafda8622f2126316d10c25"
+    },
+    {
+      "path": "mods/Baubles-1.12-1.5.2.jar",
+      "hash": "cb13fcfb18a9cb0cbd825fd5fe8d813c77368549"
+    },
+    {
+      "path": "mods/Botania r1.10-364.4.jar",
+      "hash": "7ad38e809f785c18fbc17c5beac2650342ae4a96"
+    },
+    {
+      "path": "mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+      "hash": "b6a7e3b889c354216059a3bfad298e30a1e46a2d"
+    },
+    {
+      "path": "mods/CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "hash": "4dd5aa3ff30d7966ae253556f79bb3f13bc5576e"
+    },
+    {
+      "path": "mods/CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+      "hash": "863e1524fe0087d434a5e44d27cc2dd0353b9399"
+    },
+    {
+      "path": "mods/CTM-MC1.12.2-1.0.2.31.jar",
+      "hash": "892e0788531269bfa2f356e4e12825e19d4e5412"
+    },
+    {
+      "path": "mods/EnderCore-1.12.2-0.5.78.jar",
+      "hash": "96c2389a5fdb2968cd69fc80b478a9a0b0ecc441"
+    },
+    {
+      "path": "mods/EnderIO-1.12.2-5.3.72.jar",
+      "hash": "60d62a0dab5b12c527fd8eda1d353888e3406175"
+    },
+    {
+      "path": "mods/extrautils2-1.12-1.9.9.jar",
+      "hash": "9f9a217b23626cb338cf229054ed490d913610dc"
+    },
+    {
+      "path": "mods/forgemod_VoxelMap-1.9.28_for_1.12.2.jar",
+      "hash": "0db52ec64ebee8b888045a5c1432a58c5b659a41"
+    },
+    {
+      "path": "mods/Hwyla-1.8.26-B41_1.12.2.jar",
+      "hash": "7280d5c0dab42436549bcefc63ff64a1049e5501"
+    },
+    {
+      "path": "mods/I18nUpdateMod-3.5.5-all.jar",
+      "hash": "ba8e5aa31d719b6fdac13c88bf388da579d4cab6"
+    },
+    {
+      "path": "mods/industrialcraft-2-2.8.222-ex112.jar",
+      "hash": "7b1263c23b3a276ae7bee4ef9b07b0a96cb397b1"
+    },
+    {
+      "path": "mods/ironchest-1.12.2-7.0.72.847.jar",
+      "hash": "adc4c785a484c5d5a4ab9a29e1937faeed4312dd"
+    },
+    {
+      "path": "mods/jei_1.12.2-4.16.1.1004.jar",
+      "hash": "f64479688b83762482f8675b3a23223389e6c693"
+    },
+    {
+      "path": "mods/lanserverproperties-1.0.jar",
+      "hash": "2afe8181d301fefffad17b06ef54b79ad8158a40"
+    },
+    {
+      "path": "mods/Mantle-1.12-1.3.3.55.jar",
+      "hash": "a1e5d5c197dae3e92637cafb8cd996185191165b"
+    },
+    {
+      "path": "mods/memory_repo/com/enderio/core/EnderCore/1.12.2-0.5.78/EnderCore-1.12.2-0.5.78-core.jar",
+      "hash": "c5e9ff680f7c56d6216f4312ab2fd427a2cb407a"
+    },
+    {
+      "path": "mods/memory_repo/com/enderio/core/EnderCore/1.12.2-0.5.78/EnderCore-1.12.2-0.5.78-core.jar.meta",
+      "hash": "b7093853979913bc82de128285a6022a72576dc3"
+    },
+    {
+      "path": "mods/memory_repo/info/loenwind/autoconfig/AutoConfig/1.12.2-1.0.2/AutoConfig-1.12.2-1.0.2.jar",
+      "hash": "6d9c92bc1cf07ded2f9e0949c7d91f3cf28946ea"
+    },
+    {
+      "path": "mods/memory_repo/info/loenwind/autoconfig/AutoConfig/1.12.2-1.0.2/AutoConfig-1.12.2-1.0.2.jar.meta",
+      "hash": "8a3b13caa17b10a8c506df0101bdaf519a95a3ef"
+    },
+    {
+      "path": "mods/memory_repo/info/loenwind/autosave/AutoSave/1.12.2-1.0.11/AutoSave-1.12.2-1.0.11.jar",
+      "hash": "4be0e88b71f672f3fc4c726d3c0e8a0960b5cfa1"
+    },
+    {
+      "path": "mods/memory_repo/info/loenwind/autosave/AutoSave/1.12.2-1.0.11/AutoSave-1.12.2-1.0.11.jar.meta",
+      "hash": "0ad68780737ebe20129d323f27998dbe286215f1"
+    },
+    {
+      "path": "mods/Patchouli-1.0-23.6.jar",
+      "hash": "0febe14bdd007b13f6089a16a57d90e44646f041"
+    },
+    {
+      "path": "mods/RedstoneFlux-1.12-2.1.1.1-universal.jar",
+      "hash": "7835c1dcc006e5d4a406a6b0615012b825e25044"
+    },
+    {
+      "path": "mods/TConstruct-1.12.2-2.13.0.183.jar",
+      "hash": "e37e1f05ad0eaf567497ce655bc877dc1778bd0f"
+    },
+    {
+      "path": "mods/ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+      "hash": "3568d977c90987c58ad2c7cb3837c4ac8de49216"
+    },
+    {
+      "path": "mods/ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+      "hash": "6bd93897638fd68794cae17c9520b68a85fc97d0"
+    },
+    {
+      "path": "mods/twilightforest-1.12.2-3.11.1021-universal.jar",
+      "hash": "a4c2d01f98350fe41374666db8e1419f770a1609"
+    },
+    {
+      "path": "mods/VeinMiner-1.12-0.38.2.647+b31535a.jar",
+      "hash": "007f517877ce7e78556bfb4038facff2bbb6a6c7"
+    },
+    {
+      "path": "mods/WailaHarvestability-mc1.12-1.1.12.jar",
+      "hash": "7e1abc8dd61390285167284a5eb3bf0e57a52760"
+    },
+    {
+      "path": "options.txt",
+      "hash": "ca424ea1204fc7d33319ef789005b65c9ddf6fc6"
+    },
+    {
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack.zip",
+      "hash": "0da39afa0201fe899953022e63f404429f5894aa"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.12.2"
+    },
+    {
+      "id": "forge",
+      "version": "14.23.5.2860"
+    }
+  ]
+}
