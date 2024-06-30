@@ -156,6 +156,14 @@
     {
       "path": "mods/TofuCraftReload-0.1.0.9.jar",
       "hash": "19c34d55d92949ac5cb6ab2c94f45c8b2e7cb216"
+    },
+    {
+      "path": "mods/Pam's HarvestCraft 1.12.2zg.jar",
+      "hash": "a064b434253305424755943dd66f389855ade953"
+    },
+    {
+      "path": "mods/CookingForBlockheads_1.12.2-6.5.0.jar",
+      "hash": "8e7b73b39c0bdae84a4be445027747c9bae935c4"
     }
   ],
   "addons": [
