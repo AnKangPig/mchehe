@@ -168,6 +168,38 @@
     {
       "path": "mods/conarm-1.12.2-1.2.5.10.jar",
       "hash": "373e8f6f56605d7eacb5d7d2f4e1ffea5e6d844b"
+    },
+    {
+      "path": "mods/BrandonsCore-1.12.2-2.4.20.162-universal.jar",
+      "hash": "f6035eb93d9c7b91334ed7bfc17ed36c8c9d86c8"
+    },
+    {
+      "path": "mods/Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+      "hash": "aa952832b369ff12a26ef608ee7a001b687ca226"
+    },
+    {
+      "path": "mods/MCMultiPart-2.5.3.jar",
+      "hash": "b32fb5efb99dedf207d3623e222ea67e20655fcc"
+    },
+    {
+      "path": "mods/Mekanism-1.12.2-9.8.3.390.jar",
+      "hash": "1d5b531b7c107d6946b3e957f4554e2cb7686320"
+    },
+    {
+      "path": "mods/MekanismTools-1.12.2-9.8.3.390.jar",
+      "hash": "8c32f71f2db7a695abc8413aa7dfe8c28c485585"
+    },
+    {
+      "path": "mods/plustic-8.0.6.jar",
+      "hash": "4b9d6094b0ad5792f3e8c80a811d71f8f80dc327"
+    },
+    {
+      "path": "mods/TAIGA-Replant-Replant(1.0.0-beta).jar",
+      "hash": "80ddda291068b663b86a1a6e36eefb98eb832364"
+    },
+    {
+      "path": "mods/armoryexpansion-2.0.0-alpha.jar",
+      "hash": "42fffb0f228fa75588bd4fb91f28b98378b473ce"
     }
   ],
   "addons": [
