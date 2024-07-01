@@ -164,6 +164,10 @@
     {
       "path": "mods/CookingForBlockheads_1.12.2-6.5.0.jar",
       "hash": "8e7b73b39c0bdae84a4be445027747c9bae935c4"
+    },
+    {
+      "path": "mods/conarm-1.12.2-1.2.5.10.jar",
+      "hash": "373e8f6f56605d7eacb5d7d2f4e1ffea5e6d844b"
     }
   ],
   "addons": [
