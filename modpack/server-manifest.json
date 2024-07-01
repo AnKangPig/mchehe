@@ -200,6 +200,14 @@
     {
       "path": "mods/armoryexpansion-2.0.0-alpha.jar",
       "hash": "42fffb0f228fa75588bd4fb91f28b98378b473ce"
+    },
+    {
+      "path": "mods/EasyRetrogen-1.12.2-5.0.1-universal.jar",
+      "hash": "a1bbf6843f7e4a917490476ddf93f4874e612456"
+    },
+    {
+      "path": "config/easyretrogen.cfg",
+      "hash": "173b375952206fa5b519e7c6526aedcfe36f67d6"
     }
   ],
   "addons": [
